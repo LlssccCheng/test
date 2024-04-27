@@ -185,12 +185,15 @@
 选择想要交易的商家，点击购买
 
 
-[image](https://github.com/huafei089/test/assets/109357362/f3148346-41d3-4d2e-8199-07ffc1e2e31e)
+![image](https://github.com/huafei089/test/assets/109357362/e12739ed-f6df-439e-a715-ea25711de740)
+
+
 
 输入需要购买的数量，点击购买
 
 
-[image](https://github.com/huafei089/test/assets/109357362/2494ed08-10c5-45b6-9484-568c857aeaa1)
+
+![image](https://github.com/huafei089/test/assets/109357362/c8958a76-ac88-4798-a36e-d96d2c784afc)
 
 
 
@@ -205,7 +208,7 @@
 付款给卖家
 
 
-![image](https://github.comhuafei089/test/assets/109357362/1d6334be-9019-41d1-8c7e-fc170c253f91)
+![image](https://github.com/huafei089/test/assets/109357362/8a22227b-f471-4e1f-8bbe-c6fad0292918)
 
 
 返回欧意，点击我已支付
