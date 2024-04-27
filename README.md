@@ -3,6 +3,7 @@
 
 ## 1.如何成为代理
 代理0门槛，无费用，无预存，一单一结，注册即享超低折扣。
+
 1. 安卓app注册[下载链接](http://xl.baililai.xyz/Invitation/register#/?invite_code=9GRXJXKN&name=llsscc6666)
    
 2.苹果暂时只支持网页版，请使用安卓链接注册完成后进行登录或填写邀请码 **9GRXJXKN**：[链接](http://xl.baililai.xyz/h5#)
@@ -72,17 +73,20 @@
 ## 9.平台提单教程
 点击首页充值
 
-[image](https://github.com/LlssccCheng/test/assets/109357362/a2a32ffa-2fde-4b51-9e9e-d50bdd8aab2b)
+![image](https://github.com/huafei089/test/assets/109357362/b3fab0da-5571-4d54-bbd5-8e4d86d3a066)
+
 
 选择需要充值的账号和金额（姓名不填）
 
-[image](https://github.com/LlssccCheng/test/assets/109357362/d5d9ad55-1b59-47e9-9b64-1c0b58bb79eb)
+![image](https://github.com/huafei089/test/assets/109357362/8d05a724-b1cf-4216-ba88-f6b2cbc26942)
+
 
 面额最低三百，如需充值600、700等，在实充金额处填写即可，以百为整，400面额不冲确认后支付完成，订单会在订单页面显示订单待确认，到账后显示订单已完成
 
 提单后，进行中的订单显示订单待确认，充值完成后会显示订单已完成，无延迟
 
-[image](https://github.com/LlssccCheng/test/assets/109357362/7ed0ca94-b63d-45c7-b8e0-f33f98f1510b)
+![image](https://github.com/huafei089/test/assets/109357362/97d35da2-22c5-4826-8e54-5787da0c4a8a)
+
 
 订单列表页面会显示充值的号码，和当前余额等信息
 
@@ -167,7 +171,8 @@
 [image](https://github.com/LlssccCheng/test/assets/109357362/fa7cdf8b-c804-434f-af6e-470795267821)
 
 选择想要交易的商家，点击购买
-https://uploader.shimo.im/f/m8Bt0EV0lpMvnOF5.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3MTQxODYxNzAsImZpbGVHVUlEIjoiZ1hxbWRPNGFaWFVNRVEzbyIsImlhdCI6MTcxNDE4NTg3MCwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjo5NDE1OTMwNH0.mCDn67wRiUclplODTmEKTkVlAf--9YCXWmCkkhbbMWg![image](https://github.com/LlssccCheng/test/assets/109357362/f3148346-41d3-4d2e-8199-07ffc1e2e31e)
+
+[image](https://github.com/LlssccCheng/test/assets/109357362/f3148346-41d3-4d2e-8199-07ffc1e2e31e)
 
 输入需要购买的数量，点击购买
 [image](https://github.com/LlssccCheng/test/assets/109357362/2494ed08-10c5-45b6-9484-568c857aeaa1)
@@ -233,11 +238,15 @@ https://uploader.shimo.im/f/m8Bt0EV0lpMvnOF5.png!thumbnail?accessToken=eyJhbGciO
 ## 遇到充值失败问题，联系在线客服解决
 ### 遇到充值失败问题，联系在线客服解决
 ## 13.梯子VPN，苹果ID及各大官网
+
 [ 苹果ID，用完即退](https://apple.fxtos.com/)
+
 [ 安卓翻墙教程，自行了解](https://help.vntos.com/and/)
+
 [苹果翻墙 ](https://help.vntos.com/ios/)
 
-[ 火币下载地址](https://www.htx.co.si/invite/zh-cn/1f?invite code=wdsw8223)
+[火币下载地址]([https://www.okx.com/zh-hans/join/39338964)
+
 [欧易下载地址 ](https://www.okx.com/zh-hans/join/39338964)
 
 
