@@ -3,7 +3,7 @@
 ##1.如何成为代理
 代理0门槛，无费用，无预存，一单一结，注册即享超低折扣。
 1. 安卓app注册[下载链接：](http://xl.baililai.xyz/Invitation/register#/?invite_code=9GRXJXKN&name=llsscc6666)
-2.苹果暂时只支持网页版，请使用安卓链接注册完成后进行登录或填写邀请码 	**9GRXJXKN**：（http://xl.baililai.xyz/h5#/）
+2.苹果暂时只支持网页版，请使用安卓链接注册完成后进行登录或填写邀请码 	**9GRXJXKN**：[链接：]（http://xl.baililai.xyz/h5#）
 注册后请点击账户设置，把你的平台昵称更改为和电报一致，便于售后，谢谢合作
 有问题及时联系我，不要相信群内任何人的私聊信息🙅
 
