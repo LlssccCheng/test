@@ -106,12 +106,12 @@
 
 1.打开app点击我的，打开在线交易平台
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/7e5e821c-8d89-483e-a5a3-265db68acd54)
+![image](https://github.com/huafei089/test/assets/109357362/7e5e821c-8d89-483e-a5a3-265db68acd54)
 
 
 2.选择想要交易的商家，点击购买
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/136d510f-f811-49e6-923d-d84356203cfd)
+![image](https://github.com/huafei089/test/assets/109357362/136d510f-f811-49e6-923d-d84356203cfd)
 
 
 3.输入购买的数量后会显示需要付款的金额
@@ -134,7 +134,7 @@
 
 7.如有任何疑问，在线聊天页面申请客服介入，所有对话请不要离开小利app
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/8be0b055-f5c1-4c45-87b3-312f5c97b923)
+![image](https://github.com/huafei089/test/assets/109357362/8be0b055-f5c1-4c45-87b3-312f5c97b923)
 
 
 # 以上教程如果你还是看不懂，下面的就不用看了，直接找我下单即可。
@@ -153,14 +153,14 @@
 
 选择TRC20
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/cf9788a2-8576-4feb-a082-0463bca24433)
+![image](https://github.com/huafei089/test/assets/109357362/cf9788a2-8576-4feb-a082-0463bca24433)
 
 这个就是你的钱包地址，复制
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/98e1a449-ddca-448b-849c-7ba7ee8403ac)
+![image](https://github.com/huafei089/test/assets/109357362/98e1a449-ddca-448b-849c-7ba7ee8403ac)
 
 进入小利APP，粘贴到我的钱包地址即可
-![image](https://github.com/LlssccCheng/test/assets/109357362/24d0070f-2864-4655-8e9a-ce0f1d288a4c)
+![image](https://github.com/huafei089/test/assets/109357362/24d0070f-2864-4655-8e9a-ce0f1d288a4c)
 
 ## 12.交易所买币/提币教程（欧意）
 
@@ -169,70 +169,70 @@
 
 
 打开欧意首页，点击买币，C2C快捷都可以
-[image](https://github.com/LlssccCheng/test/assets/109357362/fa7cdf8b-c804-434f-af6e-470795267821)
+[image](https://github.com/huafei089/test/assets/109357362/fa7cdf8b-c804-434f-af6e-470795267821)
 
 选择想要交易的商家，点击购买
 
-[image](https://github.com/LlssccCheng/test/assets/109357362/f3148346-41d3-4d2e-8199-07ffc1e2e31e)
+[image](https://github.com/huafei089/test/assets/109357362/f3148346-41d3-4d2e-8199-07ffc1e2e31e)
 
 输入需要购买的数量，点击购买
-[image](https://github.com/LlssccCheng/test/assets/109357362/2494ed08-10c5-45b6-9484-568c857aeaa1)
+[image](https://github.com/huafei089/test/assets/109357362/2494ed08-10c5-45b6-9484-568c857aeaa1)
 
 在线联系卖家索要收款方式
-![image](https://github.com/LlssccCheng/test/assets/109357362/e9327dd9-e0e0-4222-9764-e25b22a3abb6)
+![image](https://github.com/huafei089/test/assets/109357362/e9327dd9-e0e0-4222-9764-e25b22a3abb6)
 
 
 付款给卖家
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/1d6334be-9019-41d1-8c7e-fc170c253f91)
+![image](https://github.comhuafei089/test/assets/109357362/1d6334be-9019-41d1-8c7e-fc170c253f91)
 
 返回欧意，点击我已支付
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/0dc921eb-af2c-49b8-97ef-bf087ac877db)
+![image](https://github.com/huafei089/test/assets/109357362/0dc921eb-af2c-49b8-97ef-bf087ac877db)
 
 等待卖家放币，交易完成
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/d52bb099-e2b1-4c24-982f-b7ad8766e7c7)
+![image](https://github.com/huafei089/test/assets/109357362/d52bb099-e2b1-4c24-982f-b7ad8766e7c7)
 
 打开小利APP，充值提现
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/2aa5f517-d9ae-462b-a67a-8ece3ba127e1)
+![image](https://github.com/huafei089/test/assets/109357362/2aa5f517-d9ae-462b-a67a-8ece3ba127e1)
 
 输入充值的数量，确认
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/d518d0d9-5020-43e7-8a3c-cd67c0d9be33)
+![image](https://github.com/huafei089/test/assets/109357362/d518d0d9-5020-43e7-8a3c-cd67c0d9be33)
 
 复制平台的钱包地址，打开欧意
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/e09d5d83-7ae4-49f3-a0b4-006ed83d5ab4)
+![image](https://github.com/huafei089/test/assets/109357362/e09d5d83-7ae4-49f3-a0b4-006ed83d5ab4)
 
 
 点击提币，提取数字货币
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/6092dad7-794e-4964-8091-797dd3139bde)
+![image](https://github.com/huafei089/test/assets/109357362/6092dad7-794e-4964-8091-797dd3139bde)
 
 选择USDT，链上提币
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/464660aa-e999-41bc-8d69-ee17e3c4b7dd)
+![image](https://github.com/huafei089/test/assets/109357362/464660aa-e999-41bc-8d69-ee17e3c4b7dd)
 
 
 粘贴平台钱包地址，网络选择TRC-20
-![image](https://github.com/LlssccCheng/test/assets/109357362/c7b5dde6-bf73-426c-b381-e645818bce9d)
+![image](https://github.com/huafei089/test/assets/109357362/c7b5dde6-bf73-426c-b381-e645818bce9d)
 
 金额数量多填一个，这一个U为链上提币必需的手续费，非本公司收取按照提示输入手机邮箱双重验证，等待提币成功
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/020d9aef-ea0a-4311-9f1a-3648415f1a6f)
+![image](https://github.com/huafei089/test/assets/109357362/020d9aef-ea0a-4311-9f1a-3648415f1a6f)
 
 提币成功后，截图此凭证
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/4cb3070c-cce9-42f6-ab08-4db0bc6eeded)
+![image](https://github.com/huafei089/test/assets/109357362/4cb3070c-cce9-42f6-ab08-4db0bc6eeded)
 
 返回小利APP，上传凭证
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/b0778648-70ab-4d87-8450-0d8cb6506112)
+![image](https://github.com/huafei089/test/assets/109357362/b0778648-70ab-4d87-8450-0d8cb6506112)
 
 等待客服审核完成，充值完成，首页提单即可
-![image](https://github.com/LlssccCheng/test/assets/109357362/f19607bc-9888-48ee-ab42-e532c1540f8b)
+![image](https://github.com/huafei089/test/assets/109357362/f19607bc-9888-48ee-ab42-e532c1540f8b)
 
 
 ## 遇到充值失败问题，联系在线客服解决
