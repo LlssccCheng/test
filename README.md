@@ -4,9 +4,9 @@
 ## 1.如何成为代理
 代理0门槛，无费用，无预存，一单一结，注册即享超低折扣。
 
-1. 安卓app注册[下载链接](http://xl.baililai.xyz/Invitation/register#/?invite_code=9GRXJXKN&name=llsscc6666)
-   
-2.苹果暂时只支持网页版，请使用安卓链接注册完成后进行登录或填写邀请码 **9GRXJXKN**：[链接](http://xl.baililai.xyz/h5#)
+1.  安卓app注册[下载链接](http://xl.baililai.xyz/Invitation/register#/?invite_code=9GRXJXKN&name=llsscc6666)
+  
+2.  苹果暂时只支持网页版，请使用安卓链接注册完成后进行登录或填写邀请码 9GRXJXKN：[下载链接](http://xl.baililai.xyz/h5#/)
 
 注册后请点击账户设置，把你的平台昵称更改为和电报一致，便于售后，谢谢合作
 
@@ -54,8 +54,8 @@
 
 ## 7.注意事项（代理和客户须知）
 
-> [!WARNING]
-> 副卡 | 集团号 | 公司号 | 一卡多号 | 虚拟号 | 空号 | 错号 | 停机号 | 欠费号 | 广电号 | 不能充
+> [!注意]
+> 副卡 | 集团号 | 公司号 | 一卡多号 | 虚拟号 | 空号 | 错号 | 停机号 | 欠费号 | 广电号 | 不能充！
 
 
  携号转网可以充-携号转网可以充-携号转网可以充
@@ -116,19 +116,20 @@
 
 3.输入购买的数量后会显示需要付款的金额
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/b68fedfd-98e6-46b1-81f5-f1e9f5f57540)
+![image](https://github.com/huafei089/test/assets/109357362/b68fedfd-98e6-46b1-81f5-f1e9f5f57540)
 
 4.在线窗口联系卖家选择支付方式（微信/支付宝）
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/5e408fbc-fe29-4256-8526-593c9e87ada7)
+![image](https://github.com/huafei089/test/assets/109357362/5e408fbc-fe29-4256-8526-593c9e87ada7)
 
 5.支付完成后上传转账凭证点击我已汇款
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/b75c3763-b60a-47dd-9677-c47635d5cd69)
+![image](https://github.com/huafei089/test/assets/109357362/b75c3763-b60a-47dd-9677-c47635d5cd69)
 
 6.等待卖家验收后订单结束，U币自动发放至余额，即可首页提单!
 
-[image](https://github.com/LlssccCheng/test/assets/109357362/4703eef9-a661-4a12-a712-728bf453674d)
+![image](https://github.com/huafei089/test/assets/109357362/2e108bb3-c9e5-432b-bee9-2fa65477d6a6)
+
 
 
 7.如有任何疑问，在线聊天页面申请客服介入，所有对话请不要离开小利app
@@ -140,15 +141,15 @@
 
 ## 11.我的钱包地址（欧意为例）
 打开欧意资产界面，点击充币
-![image](https://github.com/LlssccCheng/test/assets/109357362/25a8f65e-dd49-4ad9-82fa-ab417f56bfbe)
+![image](https://github.com/huafei089/test/assets/109357362/25a8f65e-dd49-4ad9-82fa-ab417f56bfbe)
 
 
 充入数字货币
-![image](https://github.com/LlssccCheng/test/assets/109357362/099ec818-15a9-41e2-88fc-38b6748429c6)
+![image](https://github.com/huafei089/test/assets/109357362/099ec818-15a9-41e2-88fc-38b6748429c6)
 
 搜索并选择USDT
 
-![image](https://github.com/LlssccCheng/test/assets/109357362/70055916-038f-427b-a630-097c6deadb01)
+![image](https://github.com/huafei089/test/assets/109357362/70055916-038f-427b-a630-097c6deadb01)
 
 选择TRC20
 
